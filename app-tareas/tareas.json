@@ -1,0 +1,18 @@
+[
+{
+    "titulo": "Crear cuenta en GitHub",
+    "estado": "terminada"
+},
+{
+    "titulo": "Crear el primer repositorio remoto",
+    "estado": "terminada"
+},
+{
+    "titulo": "Realizar TP concesionaria de autos en PG",
+    "estado": "pendiente"
+},
+{
+    "titulo": "Realizar App de Tareas 2",
+    "estado": "en progreso"
+}
+]
